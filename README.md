@@ -16,3 +16,4 @@
 7) Global Forecast System [https://www.ncdc.noaa.gov/data-access/model-data/model-datasets/global-forcast-system-gfs]
 8) NOAA Web Services [https://www.ncdc.noaa.gov/cdo-web/webservices/v2#gettingStarted] http request
 9) templates [http://www.meteotemplate.com/template/indexDesktop.php]
+10) Google Weather API [https://openweathermap.org/api]
